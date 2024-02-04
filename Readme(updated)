@@ -1,0 +1,8 @@
+*** FORKED FOR LEARNING PURPOSE ***
+
+This repository is forked for study purpose by Karnel Barua and no other objective
+
+In surveillance systems, detecting violence quickly and accurately is crucial for law enforcement and city safety. Existing violence detection methods often prioritize either speed or accuracy, 
+without considering their adaptability to different video formats. Our paper introduces a real-time violence detector using deep learning. Our model combines a CNN for spatial feature extraction 
+with an LSTM for temporal relation learning, balancing generality, accuracy, and response time. Our model achieves a 98% accuracy with a speed of 131 frames/sec, surpassing previous methods in
+both accuracy and speed for violence detection across various video sources.
